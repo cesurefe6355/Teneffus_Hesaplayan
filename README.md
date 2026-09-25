@@ -4,108 +4,78 @@
 
 <div align="center">
 
-<!-- Animasyonlu Başlık -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3200&pause=900&color=89B4FA&center=true&vCenter=true&width=800&lines=Teneff%C3%BCs+Hesaplayan;Ders+%7C+Teneff%C3%BCs+%7C+%C3%96%C4%9Fle+Aras%C4%B1;Ger%C3%A7ek+Zamanl%C4%B1+Takip+Sistemi" alt="Teneffüs Hesaplayan" />
+<!-- Animasyonlu Üst Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:89b4fa,35:cba6f7,70:f5c2e7,100:a6e3a1&height=220&section=header&text=TENEFF%C3%9CS%20HESAPLAYAN&fontSize=42&fontColor=11111b&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
 
-# 🏫 Teneffüs Hesaplayan
+<br/>
 
-**Modern, animasyonlu ve tamamen özelleştirilebilir bir okul ders programı takip uygulaması.**
+<!-- Canlı Typing Animasyonu -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=89B4FA&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%E2%8F%B1%EF%B8%8F+Ger%C3%A7ek+Zamanl%C4%B1+Okul+Zaman+Takibi;%F0%9F%8F%AB+Ders+%7C+Teneff%C3%BCs+%7C+%C3%96%C4%9Fle+Aras%C4%B1;%F0%9F%8F%9D%EF%B8%8F+Dinamik+Ada+%26+Yaprak+Saat+(Flip+Clock);%F0%9F%8E%A8+Catppuccin+Mocha+%26+Latte+Tema+Deste%C4%9Fi" alt="Typing SVG" />
+</a>
 
-Derslerin, teneffüslerin ve öğle arasının ne zaman başlayıp biteceğini **gerçek zamanlı** olarak gösterir.  
-Üç farklı pencere modu, **flip clock animasyonu**, **dinamik ada** ve **çift tema desteği** ile tam bir masaüstü deneyimi sunar.
+<p align="center">
+  <b>Modern, akıcı animasyonlu, hafif ve tamamen özelleştirilebilir Windows masaüstü takip uygulaması.</b>
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                            BADGES                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- Badges (Gelişmiş Renk ve Tasarım) -->
+<p align="center">
+  <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-6.0%20%7C%207.0%20%7C%208.0-cba6f7?style=for-the-badge&logo=dotnet&logoColor=11111b" alt=".NET" /></a>
+  <a href="https://learn.microsoft.com/dotnet/desktop/wpf/"><img src="https://img.shields.io/badge/WPF-Windows-89b4fa?style=for-the-badge&logo=windows&logoColor=11111b" alt="WPF" /></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /></a>
+  <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-74c7ec?style=for-the-badge&logo=windows11&logoColor=11111b" alt="Platform" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-f38ba8?style=for-the-badge&logo=apache&logoColor=11111b" alt="License" /></a>
+</p>
 
-[![.NET](https://img.shields.io/badge/.NET-6.0%20%7C%207.0%20%7C%208.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![WPF](https://img.shields.io/badge/WPF-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/dotnet/desktop/wpf/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-
-[![License](https://img.shields.io/badge/License-Apache%202.0-D22128?style=for-the-badge&logo=apache&logoColor=white)](LICENSE)
-
-<!-- Dekoratif Ayraç -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,26,27,28&height=3&section=header" width="100%" />
+<!-- Animasyonlu Bölüm Ayrıştırıcısı -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Line Animation" />
 
 </div>
 
 ---
 
-## ✨ Özellikler
+## 🌟 Öne Çıkan Özellikler
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">⏱️ Gerçek Zamanlı Sayaç</h3>
-
-- 🎯 Dairesel ilerleme halkası
-- ⏳ Kalan süreyi `mm:ss` formatında gösterir
-- 📌 Aktif ders / teneffüs adı ve bitiş saati
-- ⚠️ **Son 60 saniye uyarısı** (renk değişir)
-- ➡️ Sıradaki etkinliği otomatik gösterir
-
+<td width="33%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/timer.png" width="50" /><br/>
+<h3>⏱️ Akıllı Sayaç</h3>
+<p>Dairesel dinamik ilerleme halkası, son 60 saniye renkli görsel uyarısı ve gerçek zamanlı saniye takibi.</p>
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">📅 Ders Programı Yönetimi</h3>
-
-- ➕ Sınırsız ders / teneffüs ekleme
-- ✏️ Satır içi düzenlenebilir tablo
-- 💾 **Exe yanına otomatik kayıt**
-- 📄 Elle düzenlenebilir `.txt` formatı
-- 🔄 Tek tuşla varsayılan programa dönüş
-
+<td width="33%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/island.png" width="50" /><br/>
+<h3>🏝️ Dinamik Ada</h3>
+<p>Ekranın üstüne tam oturan <b>310x42px</b> boyutunda, görev çubuğunda yer kaplamayan mikro widget.</p>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/clock.png" width="50" /><br/>
+<h3>🍃 Yaprak Saat</h3>
+<p>Retro <b>Flip Clock</b> animasyonu, sürüklenebilir gövde ve ekran köşelerine <b>9 noktalı snap</b> yapışma.</p>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🏝️ Dinamik Ada Modu</h3>
-
-- 📍 Ekranın üst ortasına yapışır
-- 📐 Sadece **310×42 px** — masaüstünü kapatmaz
-- 👻 Görev çubuğunda **görünmez**
-- 🚫 Alt+Tab listesinde **görünmez**
-- 📊 Kalan süre + durum + ilerleme çubuğu
-
+<td width="33%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/calendar--v1.png" width="50" /><br/>
+<h3>📅 Esnek Program</h3>
+<p>Sınırsız ders/teneffüs ekleme, anlık düzenleme ve tek tıkla otomatik <code>.txt</code> kaydı.</p>
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">🍃 Yaprak Saat (Flip Clock)</h3>
-
-- 🎴 Gerçek **flip clock** animasyonu
-- 🌗 Açık / karanlık tema uyumlu
-- 🖱️ **Sürüklenebilir** pencere
-- 🎯 **9 noktalı akıllı snap** (3×3 grid)
-- 💫 Bounce animasyonu ile köşeye yapışma
-
+<td width="33%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/paint-palette.png" width="50" /><br/>
+<h3>🎨 Catppuccin Tema</h3>
+<p>Göz yormayan <b>Mocha (Karanlık)</b> ve <b>Latte (Açık)</b> temaları ile anlık yumuşak geçiş.</p>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🎨 Çift Tema Desteği</h3>
-
-- 🌙 **Karanlık tema** (Catppuccin Mocha)
-- ☀️ **Açık tema** (Catppuccin Latte)
-- ⚡ Anında geçiş — tüm pencereler uyumlu
-- 🍃 Dinamik ada ve yaprak saat dahil
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🚀 Sistem Entegrasyonu</h3>
-
-- 🔓 **Windows ile başlangıçta aç**
-- 🛡️ Yönetici olarak yeniden başlatma
-- 💬 Özel toast bildirimleri
-- 🚪 Modern çıkış onayı paneli
-
+<td width="33%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="50" /><br/>
+<h3>🚀 Windows Entegrasyonu</h3>
+<p>Sistem açılışında otomatik başlama, Windows Toast bildirimleri ve yönetici yetkisi desteği.</p>
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -115,200 +85,68 @@ Derslerin, teneffüslerin ve öğle arasının ne zaman başlayıp biteceğini *
 
 <table>
 <tr>
-<td width="50%">
-<img src="ekran-1.png" alt="Karanlık Tema — Sayaç" width="100%" />
-<p align="center"><sub><b>🌙 Karanlık Tema — Sayaç Sekmesi</b></sub></p>
+<td width="50%" align="center">
+  <img src="ekran-1.png" alt="Karanlık Tema — Sayaç" width="100%" style="border-radius:10px;" />
+  <br/><sub><b>🌙 Karanlık Tema (Catppuccin Mocha)</b></sub>
 </td>
-<td width="50%">
-<img src="ekran-2.png" alt="Açık Tema — Sayaç" width="100%" />
-<p align="center"><sub><b>☀️ Açık Tema — Sayaç Sekmesi</b></sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="ekran-3.png" alt="Ders Programı" width="100%" />
-<p align="center"><sub><b>📅 Ders Programı Yönetimi</b></sub></p>
-</td>
-<td width="50%">
-<img src="ekran-4.png" alt="Dinamik Ada ve Yaprak Saat" width="100%" />
-<p align="center"><sub><b>🏝️ Dinamik Ada &amp; 🍃 Yaprak Saat</b></sub></p>
+<td width="50%" align="center">
+  <img src="ekran-2.png" alt="Açık Tema — Sayaç" width="100%" style="border-radius:10px;" />
+  <br/><sub><b>☀️ Açık Tema (Catppuccin Latte)</b></sub>
 </td>
 </tr>
-</table>
-
-</div>
-
-> 📌 **Not:** Ekran görüntülerini repo köküne `ekran-1.png`, `ekran-2.png`, `ekran-3.png`, `ekran-4.png` olarak yükle — otomatik görünecek.
-
----
-
-## 🚀 Kurulum
-
-### 📥 İndirme ve Kurulum
-
-<div align="center">
-
-| Adım | İşlem |
-|:---:|---|
-| **1** | [**Releases**](../../releases) sayfasına git |
-| **2** | En son sürümdeki **`Teneffüs_Hesaplayan_Kurulum.zip`** dosyasını indir |
-| **3** | Zip dosyasını bir klasöre çıkart |
-| **4** | **`Teneffüs Hesaplayan Kurulum.exe`** dosyasını çalıştır |
-| **5** | Kurulum otomatik olarak tamamlanır — Başlat Menüsü ve Masaüstü kısayolu oluşturulur |
-| **6** | 🎉 Hazırsın! Program `Program Files` altına kurulur |
-
-</div>
-
-### 📋 Sistem Gereksinimleri
-
-| Gereksinim | Minimum |
-|:---:|:---:|
-| **İşletim Sistemi** | Windows 10 (1809) veya üzeri |
-| **.NET Runtime** | .NET 6.0 veya üzeri |
-| **RAM** | 100 MB boş bellek |
-| **Disk** | 10 MB boş alan |
-
-> 💡 **İpucu:** Kurulumdan sonra `⚙ Ayarlar → 🚀 Başlangıçta Aç` seçeneğini aktif edersen, bilgisayar her açıldığında otomatik olarak çalışır.
-
----
-
-## 🎮 Kullanım
-
-### 🎛️ Üç Farklı Pencere Modu
-
-<table>
 <tr>
-<th align="center">Mod</th>
-<th align="center">Boyut</th>
-<th align="center">Konum</th>
-<th align="center">Kullanım Amacı</th>
-</tr>
-<tr>
-<td align="center">🏠 <b>Normal</b></td>
-<td align="center">500×640</td>
-<td align="center">Ekran ortası</td>
-<td align="center">Tam kontrol &amp; program düzenleme</td>
-</tr>
-<tr>
-<td align="center">🏝️ <b>Dinamik Ada</b></td>
-<td align="center">280×42</td>
-<td align="center">Ekranın üst ortası</td>
-<td align="center">Arka planda sessizce takip</td>
-</tr>
-<tr>
-<td align="center">🍃 <b>Yaprak Saat</b></td>
-<td align="center">276×108</td>
-<td align="center">Sürüklenebilir (9 nokta)</td>
-<td align="center">Masaüstü süsü &amp; flip clock</td>
-</tr>
-</table>
-
-### ⌨️ Kısayollar & Fare Hareketleri
-
-| İşlem | Sonuç |
-|---|---|
-| 🖱️ **Sol tık + sürükle** (normal mod) | Pencereyi taşı |
-| 🖱️ **Çift tık** (dinamik ada) | Normal moda dön |
-| 🖱️ **Çift tık** (yaprak saat) | Normal moda dön |
-| 🖱️ **Sol tık + sürükle** (yaprak saat) | En yakın 9 noktaya snap |
-| ⌨️ **Alt + F4** | Ada / yaprak modunda onaysız kapat |
-| ❌ **✕ butonu** | Çıkış onay panelini aç |
-
-### 🚦 İlk Kullanım
-
-```
-① Programı aç
-② ⚙ Ayarlar → 🚀 Başlangıçta Aç → Açık
-③ 📅 Ders Programı → Kendi programını gir
-④ 💾 Kaydet → Değişiklikler exe yanına kaydedilir
-⑤ ⚙ Ayarlar → 🏝 Dinamik Ada  (veya 🍃 Yaprak Saat)
-⑥ 🎉 Artık dersleri kaçırmak yok!
-```
-
----
-
-## 🛠️ Teknoloji Yığını
-
-<div align="center">
-
-| Katman | Teknoloji |
-|:---:|:---:|
-| **Dil** | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square) |
-| **UI Framework** | ![WPF](https://img.shields.io/badge/WPF-.NET%20Desktop-0078D4?logo=windows&logoColor=white&style=flat-square) |
-| **Runtime** | ![.NET](https://img.shields.io/badge/.NET-6%2B-512BD4?logo=dotnet&logoColor=white&style=flat-square) |
-| **Pencere API** | ![Win32](https://img.shields.io/badge/Win32%20API-P%2FInvoke-5C2D91?style=flat-square) |
-| **Kayıt Defteri** | ![Registry](https://img.shields.io/badge/Windows-Registry-0078D4?style=flat-square) |
-
-</div>
-
----
-
-## 👨‍💻 Geliştirici
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎮 Cesur Efe Kamalı
-
-**Oyun Geliştirici & Yazılım Mühendisliği Öğrencisi**
-
-📍 Samsun, Türkiye  
-💻 C# · Unity · PHP · Python  
-🎯 Oyun Geliştirme · Sistem Mimarisi · Web Çözümleri
-
-[![GitHub](https://img.shields.io/badge/GitHub-cesurefe6355-181717?style=for-the-badge&logo=github)](https://github.com/cesurefe6355)
-[![Email](https://img.shields.io/badge/Email-cesurefe6355%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesurefe6355@gmail.com)
-
+<td width="50%" align="center">
+  <img src="ekran-3.png" alt="Ders Programı" width="100%" style="border-radius:10px;" />
+  <br/><sub><b>📅 Ders Programı Yönetim Paneli</b></sub>
 </td>
-<td align="center" width="50%">
-
-### 🌐 Bağlantılar
-
-[![Website](https://img.shields.io/badge/Website-dehsetonline.com-89B4FA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dehsetonline.com)
-[![Store](https://img.shields.io/badge/Store-dehsetstore.fgd-A6E3A1?style=for-the-badge&logo=shopify&logoColor=white)](https://dehsetstore.fgd)
-[![Platform](https://img.shields.io/badge/Platform-oyunova.online-F38BA8?style=for-the-badge&logo=gamepad&logoColor=white)](https://oyunova.online)
-
+<td width="50%" align="center">
+  <img src="ekran-4.png" alt="Dinamik Ada ve Yaprak Saat" width="100%" style="border-radius:10px;" />
+  <br/><sub><b>🏝️ Dinamik Ada & 🍃 Yaprak Saat (Flip Clock) Modları</b></sub>
 </td>
 </tr>
 </table>
 
 </div>
 
----
-
-## 📜 Lisans
-
-Bu proje **Apache License 2.0** altında dağıtılmaktadır. Detaylar için [**LICENSE**](LICENSE) dosyasına bakabilirsin.
-
-```
-Copyright 2025 Cesur Efe Kamalı
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
+> 💡 **Görsel İpucu:** Ekran görüntülerinizi projenizin ana dizinine `ekran-1.png`, `ekran-2.png`, `ekran-3.png` ve `ekran-4.png` isimleriyle eklediğinizde yukarıdaki tabloda otomatik olarak sergilenecektir.
 
 ---
+
+## 🎛️ Pencere Modları & Kullanım
+
+<details open>
+<summary><b>🔍 Pencere Modları Karşılaştırması (Genişletmek için tıklayın)</b></summary>
+<br/>
+
+| Mod | Boyut (px) | Konum | Odak Noktası & Ekstra Özellikler |
+| :--- | :---: | :---: | :--- |
+| **🏠 Normal Mod** | `500x640` | Ekran Ortası | Tüm ayarlara erişim, ders programı oluşturma ve yönetimi. |
+| **🏝️ Dinamik Ada** | `280x42` | Ekran Üst-Orta | Minimalist sayaç, Alt+Tab & Görev Çubuğunda görünmez. |
+| **🍃 Yaprak Saat** | `276x108` | Serbest / Snap | Retro 3D Flip Clock animasyonları, 9 noktalı ekran snap sistemi. |
+
+</details>
+
+<details>
+<summary><b>⌨️ Kısayollar ve Fare Etkileşimleri</b></summary>
+<br/>
+
+- 🖱️ **Sol Tık + Sürükle:** Pencereyi serbestçe taşır.
+- 🖱️ **Çift Tık (Ada / Saat Modu):** Anında **Normal Mod**'a geri döner.
+- 🧲 **Köşe Yapışma (Snap):** Yaprak Saat ekran kenarlarına yaklaştığında mıknatıs efektiyle 9 noktadan birine kilitlenir.
+- ⌨️ **Alt + F4:** Ada veya Yaprak Saat modundayken onay istemeden hızlıca kapatır.
+- ❌ **Kapat Butonu:** Yanlışlıkla kapanmaları önlemek için modern onay paneli açar.
+
+</details>
+
+---
+
+## 📥 Kurulum ve Hızlı Başlangıç
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=110&section=footer" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=900&color=A6E3A1&center=true&vCenter=true&width=520&lines=Teneff%C3%BCs+Hesaplayan+ile+dersleri+ka%C3%A7%C4%B1rmak+yok!;%E2%AD%90+Y%C4%B1ld%C4%B1z+vermeyi+unutma!" alt="Footer" />
-
-**❤️ ile Türkiye'de yapıldı**
-
-[![GitHub](https://img.shields.io/badge/GitHub-cesurefe6355-181717?style=for-the-badge&logo=github)](https://github.com/cesurefe6355)
-
-</div>
+```mermaid
+graph LR
+    A[1. Releases'e Git] --> B[2. Zip Dosyasını İndir]
+    B --> C[3. Klasöre Çıkart]
+    C --> D[4. Kurulum.exe Çalıştır]
+    D --> E[5. 🎉 Kullanmaya Başla!]
