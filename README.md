@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Animasyonlu Üst Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:89b4fa,35:cba6f7,70:f5c2e7,100:a6e3a1&height=220&section=header&text=TENEFF%C3%9CS%20HESAPLAYAN&fontSize=42&fontColor=11111b&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:89b4fa,35:cba6f7,70:f5c2e7,100:a6e3a1&height=220&section=header&text=TENEFF%C3%9CS%20HESAPLAYAN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
 
 <br/>
 
