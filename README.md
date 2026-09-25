@@ -1,4 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img width="608" height="215" alt="image" src="https://github.com/user-attachments/assets/7faa1d43-3a38-4ddb-bcc4-162f1d46455d" /><!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     TENEFFÜS HESAPLAYAN                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -86,21 +86,21 @@
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="ekran-1.png" alt="Karanlık Tema — Sayaç" width="100%" style="border-radius:10px;" />
+  <img src="ScreenShots/Ekran görüntüsü1.png" alt="Karanlık Tema — Sayaç" width="100%" style="border-radius:10px;" />
   <br/><sub><b>🌙 Karanlık Tema (Catppuccin Mocha)</b></sub>
 </td>
 <td width="50%" align="center">
-  <img src="ekran-2.png" alt="Açık Tema — Sayaç" width="100%" style="border-radius:10px;" />
+  <img src="ScreenShots/Ekran görüntüsü2.png" alt="Açık Tema — Sayaç" width="100%" style="border-radius:10px;" />
   <br/><sub><b>☀️ Açık Tema (Catppuccin Latte)</b></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-  <img src="ekran-3.png" alt="Ders Programı" width="100%" style="border-radius:10px;" />
+  <img src="ScreenShots/Ekran görüntüsü3.png" alt="Ders Programı" width="100%" style="border-radius:10px;" />
   <br/><sub><b>📅 Ders Programı Yönetim Paneli</b></sub>
 </td>
 <td width="50%" align="center">
-  <img src="ekran-4.png" alt="Dinamik Ada ve Yaprak Saat" width="100%" style="border-radius:10px;" />
+  <img src="ScreenShots/Ekran görüntüsü4.png" alt="Dinamik Ada ve Yaprak Saat" width="100%" style="border-radius:10px;" />
   <br/><sub><b>🏝️ Dinamik Ada & 🍃 Yaprak Saat (Flip Clock) Modları</b></sub>
 </td>
 </tr>
