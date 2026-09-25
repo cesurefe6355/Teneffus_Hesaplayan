@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TENEFFÜS HESAPLAYAN                      -->
+<!--                     TENEFFÜS HESAPLAYAN                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- Animasyonlu Başlık -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=3200&pause=900&color=89B4FA&center=true&vCenter=true&width=750&lines=Teneff%C3%BCs+Hesaplayan;Ders+%7C+Teneff%C3%BCs+%7C+%C3%96%C4%9Fle+Aras%C4%B1;Ger%C3%A7ek+Zamanl%C4%B1+Takip+Sistemi" alt="Teneffüs Hesaplayan" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3200&pause=900&color=89B4FA&center=true&vCenter=true&width=800&lines=Teneff%C3%BCs+Hesaplayan;Ders+%7C+Teneff%C3%BCs+%7C+%C3%96%C4%9Fle+Aras%C4%B1;Ger%C3%A7ek+Zamanl%C4%B1+Takip+Sistemi" alt="Teneffüs Hesaplayan" />
 
 # 🏫 Teneffüs Hesaplayan
 
@@ -24,11 +24,11 @@ Derslerin, teneffüslerin ve öğle arasının ne zaman başlayıp biteceğini *
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-D22128?style=for-the-badge&logo=apache&logoColor=white)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/KULLANICI_ADIN/REPO_ADIN?style=for-the-badge&color=F9E2AF&logo=github)](https://github.com/KULLANICI_ADIN/REPO_ADIN/stargazers)
-[![Forks](https://img.shields.io/github/forks/KULLANICI_ADIN/REPO_ADIN?style=for-the-badge&color=89B4FA)](https://github.com/KULLANICI_ADIN/REPO_ADIN/network/members)
-[![Issues](https://img.shields.io/github/issues/KULLANICI_ADIN/REPO_ADIN?style=for-the-badge&color=F38BA8)](https://github.com/KULLANICI_ADIN/REPO_ADIN/issues)
+[![Stars](https://img.shields.io/github/stars/cesurefe6355/Teneffus-Hesaplayan?style=for-the-badge&color=F9E2AF&logo=github)](https://github.com/cesurefe6355/Teneffus-Hesaplayan/stargazers)
+[![Forks](https://img.shields.io/github/forks/cesurefe6355/Teneffus-Hesaplayan?style=for-the-badge&color=89B4FA)](https://github.com/cesurefe6355/Teneffus-Hesaplayan/network/members)
+[![Issues](https://img.shields.io/github/issues/cesurefe6355/Teneffus-Hesaplayan?style=for-the-badge&color=F38BA8)](https://github.com/cesurefe6355/Teneffus-Hesaplayan/issues)
 
-<!-- Dekoratif ayraç -->
+<!-- Dekoratif Ayraç -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,26,27,28&height=3&section=header" width="100%" />
 
 </div>
@@ -141,7 +141,7 @@ Derslerin, teneffüslerin ve öğle arasının ne zaman başlayıp biteceğini *
 
 </div>
 
-> 📌 **Not:** Ekran görüntülerini repo köküne `ekran-1.png`, `ekran-2.png`, `ekran-3.png`, `ekran-4.png` olarak yükle — bu isimlerle otomatik görünecek.
+> 📌 **Not:** Ekran görüntülerini repo köküne `ekran-1.png`, `ekran-2.png`, `ekran-3.png`, `ekran-4.png` olarak yükle — otomatik görünecek.
 
 ---
 
@@ -165,13 +165,13 @@ Derslerin, teneffüslerin ve öğle arasının ne zaman başlayıp biteceğini *
 ### 📋 Sistem Gereksinimleri
 
 | Gereksinim | Minimum |
-|---|---|
+|:---:|:---:|
 | **İşletim Sistemi** | Windows 10 (1809) veya üzeri |
 | **.NET Runtime** | .NET 6.0 veya üzeri |
 | **RAM** | 100 MB boş bellek |
 | **Disk** | 10 MB boş alan |
 
-> 💡 **İpucu:** Kurulumdan sonra programı açıp `⚙ Ayarlar → 🚀 Başlangıçta Aç` seçeneğini aktif edersen, bilgisayar her açıldığında otomatik olarak çalışır.
+> 💡 **İpucu:** Kurulumdan sonra `⚙ Ayarlar → 🚀 Başlangıçta Aç` seçeneğini aktif edersen, bilgisayar her açıldığında otomatik olarak çalışır.
 
 ---
 
@@ -246,12 +246,48 @@ Derslerin, teneffüslerin ve öğle arasının ne zaman başlayıp biteceğini *
 
 ---
 
+## 👨‍💻 Geliştirici
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎮 Cesur Efe Kamalı
+
+**Oyun Geliştirici & Yazılım Mühendisliği Öğrencisi**
+
+📍 Samsun, Türkiye  
+💻 C# · Unity · PHP · Python  
+🎯 Oyun Geliştirme · Sistem Mimarisi · Web Çözümleri
+
+[![GitHub](https://img.shields.io/badge/GitHub-cesurefe6355-181717?style=for-the-badge&logo=github)](https://github.com/cesurefe6355)
+[![Email](https://img.shields.io/badge/Email-cesurefe6355%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesurefe6355@gmail.com)
+
+</td>
+<td align="center" width="50%">
+
+### 🌐 Bağlantılar
+
+[![Website](https://img.shields.io/badge/Website-dehsetonline.com-89B4FA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dehsetonline.com)
+[![Store](https://img.shields.io/badge/Store-dehsetstore.fgd-A6E3A1?style=for-the-badge&logo=shopify&logoColor=white)](https://dehsetstore.fgd)
+[![Platform](https://img.shields.io/badge/Platform-oyunova.online-F38BA8?style=for-the-badge&logo=gamepad&logoColor=white)](https://oyunova.online)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 📜 Lisans
 
 Bu proje **Apache License 2.0** altında dağıtılmaktadır. Detaylar için [**LICENSE**](LICENSE) dosyasına bakabilirsin.
 
 ```
-Copyright 2025 [Senin Adın]
+Copyright 2025 Cesur Efe Kamalı
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -270,12 +306,12 @@ limitations under the License.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=110&section=footer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=900&color=A6E3A1&center=true&vCenter=true&width=520&lines=Teneff%C3%BCs+Hesaplayan+ile+dersleri+ka%C3%A7%C4%B1rmak+yok!;%E2%AD%90+Y%C4%B1ld%C4%B1z+vermeyi+unutma!" alt="Footer" />
 
 **❤️ ile Türkiye'de yapıldı**
 
-[![GitHub](https://img.shields.io/badge/GitHub-KULLANICI_ADIN-181717?style=for-the-badge&logo=github)](https://github.com/KULLANICI_ADIN)
+[![GitHub](https://img.shields.io/badge/GitHub-cesurefe6355-181717?style=for-the-badge&logo=github)](https://github.com/cesurefe6355)
 
 </div>
