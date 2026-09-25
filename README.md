@@ -24,9 +24,6 @@ Derslerin, teneffüslerin ve öğle arasının ne zaman başlayıp biteceğini *
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-D22128?style=for-the-badge&logo=apache&logoColor=white)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/cesurefe6355/Teneffus-Hesaplayan?style=for-the-badge&color=F9E2AF&logo=github)](https://github.com/cesurefe6355/Teneffus-Hesaplayan/stargazers)
-[![Forks](https://img.shields.io/github/forks/cesurefe6355/Teneffus-Hesaplayan?style=for-the-badge&color=89B4FA)](https://github.com/cesurefe6355/Teneffus-Hesaplayan/network/members)
-[![Issues](https://img.shields.io/github/issues/cesurefe6355/Teneffus-Hesaplayan?style=for-the-badge&color=F38BA8)](https://github.com/cesurefe6355/Teneffus-Hesaplayan/issues)
 
 <!-- Dekoratif Ayraç -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,26,27,28&height=3&section=header" width="100%" />
