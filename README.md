@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Animasyonlu Üst Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:89b4fa,35:cba6f7,70:f5c2e7,100:a6e3a1&height=220&section=header&text=TENEFF%C3%9CS%20HESAPLAYAN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:89b4fa,35:cba6f7,70:f5c2e7,100:a6e3a1&height=220&section=header&text=TENEFF%C3%9CS%20HESAPLAYAN&fontSize=42&fontColor=11111b&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
 
 <br/>
 
@@ -18,7 +18,7 @@
   <b>Modern, akıcı animasyonlu, hafif ve tamamen özelleştirilebilir Windows masaüstü takip uygulaması.</b>
 </p>
 
-<!-- Badges (Gelişmiş Renk ve Tasarım) -->
+<!-- Badges -->
 <p align="center">
   <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-6.0%20%7C%207.0%20%7C%208.0-cba6f7?style=for-the-badge&logo=dotnet&logoColor=11111b" alt=".NET" /></a>
   <a href="https://learn.microsoft.com/dotnet/desktop/wpf/"><img src="https://img.shields.io/badge/WPF-Windows-89b4fa?style=for-the-badge&logo=windows&logoColor=11111b" alt="WPF" /></a>
@@ -108,14 +108,12 @@
 
 </div>
 
-> 💡 **Görsel İpucu:** Ekran görüntülerinizi projenizin ana dizinine `ekran-1.png`, `ekran-2.png`, `ekran-3.png` ve `ekran-4.png` isimleriyle eklediğinizde yukarıdaki tabloda otomatik olarak sergilenecektir.
-
 ---
 
-## 🎛️ Pencere Modları & Kullanım
+## 🎛️ Pencere Modları & Etkileşimler
 
 <details open>
-<summary><b>🔍 Pencere Modları Karşılaştırması (Genişletmek için tıklayın)</b></summary>
+<summary><b>🔍 Pencere Modları Karşılaştırması</b></summary>
 <br/>
 
 | Mod | Boyut (px) | Konum | Odak Noktası & Ekstra Özellikler |
@@ -126,7 +124,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>⌨️ Kısayollar ve Fare Etkileşimleri</b></summary>
 <br/>
 
